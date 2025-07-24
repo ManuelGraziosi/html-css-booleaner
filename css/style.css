@@ -26,6 +26,22 @@ h1 {
     color: rgb(0, 191, 255);
 }
 
+.text-color-white {
+    color: rgb(255, 255, 255);
+}
+
 .text-style-bold-600 {
     font-weight: 600;
+}
+
+.text-highligh-yellow {
+    background-color: rgb(255, 255, 0);
+}
+
+.text-backgroud-color-blue {
+    background-color: rgb(55, 154, 254);
+}
+
+.text-backgroud-color-light-blue {
+    background-color: rgb(171, 213, 255);
 }
