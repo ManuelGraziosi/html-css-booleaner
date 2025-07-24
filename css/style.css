@@ -1,3 +1,9 @@
+h1 {
+    font-size: 38px;
+    font-weight: bold;
+    font-;
+}
+
 .header {
     height: 150px;
     background-color: rgb(30, 144, 255);
@@ -10,4 +16,16 @@
 
 .header-image {
     height: 80px;
+}
+
+.text-color-gray {
+    color: rgb(128, 128, 128);
+}
+
+.text-color-azure {
+    color: rgb(0, 191, 255);
+}
+
+.text-style-bold-600 {
+    font-weight: 600;
 }
